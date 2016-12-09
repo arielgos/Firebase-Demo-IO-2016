@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="5dp"
+              android:orientation="vertical">
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="@string/question_name"
+              android:layout_margin="5dp"
+              android:padding="5dp"
+              android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"/>
+
+    <EditText android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/userName"
+              android:maxLines="1"
+              android:layout_margin="5dp"
+              android:padding="5dp"
+              android:hint="@string/sample_name"
+              android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"/>
+    <Button
+            android:id="@+id/login"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="right"
+            android:padding="5dp"
+            android:layout_margin="5dp"
+            android:text="@string/login"/>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase GDG Santa Cruz</string>
+
+    <string name="question_name">Ingrese su nombre</string>
+    <string name="sample_name">John Doe</string>
+    <string name="question_no_name">Debe ingresar un nombre para ingresar al chat</string>
+    <string name="message">Mensaje</string>
+    <string name="send">Enviar</string>
+    <string name="login">Ingresar</string>
+</resources>

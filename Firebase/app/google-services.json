@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "53378635855",
+    "firebase_url": "https://gdgdemo-7cf09.firebaseio.com",
+    "project_id": "gdgdemo-7cf09",
+    "storage_bucket": "gdgdemo-7cf09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53378635855:android:2cce188de0a3a0db",
+        "android_client_info": {
+          "package_name": "com.agos.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53378635855-4f4e9lggcimop390jegrmam1lloujjer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCax377DUBjRGiwN-CL09-ZNwVQb-KYAF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
